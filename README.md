@@ -1,7 +1,7 @@
 ## Barbearia Alura 💈
 
-Projeto de uma calculadora, que faz a soma da conta do jantar com a taxa de serviço e divide pelo número de pessoas
-Feito com HTML, CSS e JavaScript
+Projeto do site de Barbearia, que mostra suas informações e seus produtos 
+Feito com HTML5 e CSS3.
  
 
  
